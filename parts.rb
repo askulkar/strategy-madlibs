@@ -1,6 +1,6 @@
 module MadLibs
   PARTS_OF_SPEECH = {
-    nouns:        %w(competitive\ advantage learning\ organization container\ platform public\ cloud Genesis Titanium GCP DCX control\ lifecycle\ management
+    nouns:        %w(competitive\ advantage learning\ organization container\ platform public\ cloud\ migration Genesis Titanium GCP DCX control\ lifecycle\ management foundational\ platform
                    big\ data growth value digital\ business payments\ platform geo\ strategy Venmo Hyperwallet Braintree Xoom
                    platform revolution culture ecosystem monitoring\ platform
                    insight\ from\ data machine\ learning artificial\ intelligence design\ thinking digital\ transformation),
