@@ -1,7 +1,7 @@
 module MadLibs
   PARTS_OF_SPEECH = {
     nouns:        %w(competitive\ advantage learning\ organization container\ platform public\ cloud Genesis Titanium GCP
-                   big\ data growth value digital\ business payments\ platform geo\ strategy
+                   big\ data growth value digital\ business payments\ platform geo\ strategy Venmo Hyperwallet Braintree Xoom
                    platform revolution culture ecosystem monitoring\ platform
                    insight\ from\ data machine\ learning artificial\ intelligence design\ thinking digital\ transformation),
     plural_nouns: %w(social\ media leaders data\ leaders ),
