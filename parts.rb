@@ -5,7 +5,7 @@ module MadLibs
                    platform revolution BitCoin culture ecosystem monitoring\ platform blameless\ postmortems error\ budget SLOs Cryptocurrency Corp\ Infrastructure
                    insight\ from\ data machine\ learning artificial\ intelligence design\ thinking digital\ transformation),
     plural_nouns: %w(SRCE\ leaders talented\ eSRE\ developers Command\ Center ),
-    adjectives:   %w(digital\ first networked collaborative cloud\ based secure customer-centric highly\ converged global
+    adjectives:   %w(digital\ first networked collaborative cloud\ based secure customer-centric brilliant-at-the-basics highly\ converged global
                    customer\ focused disruptive sustainable agile open secure reliable resilient fault\ tolerant universe\ class mobile\ first
                    innovative)
   }
